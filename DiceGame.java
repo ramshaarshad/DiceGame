@@ -1,6 +1,4 @@
-/*
- * Ramsha Arshad Assignment 8 Due Date: 03/23/17 Using case switch and image dialog
- */
+
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 import java.net.URL;
@@ -66,8 +64,5 @@ public class DiceGame {
 
 	}
 }
-/*
- * Enter an integer between 1 and 6 to roll the dice: 6 You rolled a 6!
- */
 
 
